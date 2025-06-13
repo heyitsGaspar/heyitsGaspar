@@ -1,3 +1,4 @@
+![Header](./github-header-image-chay)
 # 💫 About Me:
 Hola, soy Gaspar Israel Chay Colli 👨‍💻, desarrollador con enfoque principal en Frontend, pero también con la capacidad de trabajar del lado del backend y en el desarrollo móvil 📱.<br><br>🚀 Me apasiona construir soluciones digitales que sean funcionales, atractivas y eficientes.<br>🧠 Siempre estoy en constante aprendizaje, buscando mejorar mis habilidades y adaptarme a nuevas tecnologías.<br>🤝 Disfruto colaborar en equipo, compartir ideas y enfrentar nuevos desafíos que impulsen mi crecimiento profesional.<br>🌍 Creo en el poder de la tecnología para generar impacto positivo y transformar ideas en experiencias reales.
 
